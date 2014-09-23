@@ -1,0 +1,11 @@
+===1.0===
+............
+First Official Launch
+date: 23.09.14
+===0.0.2===
+............
+Rebrand KodiSports "Beta" stage
+date: 14.08.14
+===0.0.1===
+............
+date: 13.08.14

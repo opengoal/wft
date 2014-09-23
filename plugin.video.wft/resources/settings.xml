@@ -1,0 +1,6 @@
+<settings>
+	<category label="Open Goal Settings">
+		<setting id="login" label="Username" type="text" default=""/>
+		<setting id="password"   label="Password" type="text" option="hidden" default=""/>
+	</category>
+</settings>
